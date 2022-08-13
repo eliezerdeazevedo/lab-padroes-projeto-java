@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2bdedb5e-6267-4189-87a0-108a6cec0ad3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-padroes-projeto-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/singleton/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Comportamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/ComportamentoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/one/digitalinnovation/gof/strategy/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subsistema2/cep/CepApi.java" afterDir="false" />
-    </list>
+    <list default="true" id="2bdedb5e-6267-4189-87a0-108a6cec0ad3" name="Changes" comment="Lab de padroes de projeto JAVA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +66,28 @@
       <option name="presentableId" value="Default" />
       <updated>1660333956143</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab de padroes de projeto JAVA">
+      <created>1660423968555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660423968555</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab de padroes de projeto JAVA">
+      <created>1660423976811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660423976811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab de padroes de projeto JAVA">
+      <created>1660424163568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660424163568</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +100,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab de padroes de projeto JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab de padroes de projeto JAVA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
